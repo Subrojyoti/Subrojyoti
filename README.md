@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [K-means Clustering under the hood](https://medium.com/@subrojyotipaul/k-means-clustering-under-the-hood-550a5436fefb?source=rss-27c4062d37d0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
