@@ -40,4 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrojyoti&show_icons=true&locale=en&layout=compact" alt="subrojyoti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrojyoti&show_icons=true&locale=en" alt="subrojyoti" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Subrojyoti&theme=dark)](https://git.io/streak-stats)
 
