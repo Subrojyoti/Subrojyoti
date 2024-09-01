@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrojyoti" alt="subrojyoti" /></a> </p>
 
-- 🔭 I’m currently working on **Tracking user engagement**
+- 🔭 I’m currently working on **Diversified News Recommender System**
 
 - 🌱 I’m currently learning **Deep Learning with Pytorch**
 
