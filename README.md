@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrojyoti" alt="subrojyoti" /></a> </p>
 
-- 🔭 I’m currently working on **Diversified News Recommender System**
+- 🔭 I’m currently working on **Retrieval Augmented Generation of Academic Papers**
 
-- 🌱 I’m currently learning **Deep Learning with Pytorch**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Medium](https://www.medium.com/@subrojyotipaul)
 
-- 📄 Know about my [experiences](https://github.com/Subrojyoti/portfolio/blob/main/Subrojyoti%20Paul_resume.pdf) 
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1ya8WNYp4VxwNSrzBziBZTz7F-kZLGuoz/view?usp=sharing) 
 
 - 📫 How to reach me **subrojyotipaul@gmail.com**
 
