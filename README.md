@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Science and Analysis, Machine Learning**
 
-- 📝 I regularly write articles on [Medium](https://www.medium.com/@subrojyotipaul)
+- 📝 I sometimes write articles on [Medium](https://www.medium.com/@subrojyotipaul)
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1ya8WNYp4VxwNSrzBziBZTz7F-kZLGuoz/view?usp=sharing) 
 
