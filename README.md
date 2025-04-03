@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Data Science and AI projects**
 
-- 💬 Ask me about **Data Science and Analysis, Machine Learning**
+- 💬 Ask me about **Data Science and Analysis, Machine Learning, AI**
 
 - 📝 I sometimes write articles on [Medium](https://www.medium.com/@subrojyotipaul)
 
