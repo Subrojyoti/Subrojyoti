@@ -15,7 +15,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://www.medium.com/@subrojyotipaul)
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1873tm4CobIMWLvYxLbsRY7ODaPi71T7g/view?usp=sharing) 
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1g7MteGhlU-kdMfrR4gcDTdpUEhm92sGP/view?usp=sharing) 
 
 - 📫 How to reach me **subrojyotipaul@gmail.com**
 
