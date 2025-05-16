@@ -83,11 +83,6 @@
 
 ---
 
-### 📝 Latest Blog Post
-
-- [K-means Clustering under the hood](https://medium.com/@subrojyotipaul/k-means-clustering-under-the-hood-550a5436fefb?source=rss-27c4062d37d0------2)
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
