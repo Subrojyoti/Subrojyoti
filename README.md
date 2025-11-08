@@ -16,7 +16,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Retrieval Augmented Generation (RAG) for Academic Papers**, enhancing information discovery and analysis.
+- 👩🏻‍💻 I'm currently working at Netenrich, Inc. as a Backend Engineer Intern.
+- 🔭 I’ve recently worked on **Retrieval Augmented Generation (RAG) for Academic Papers**, enhancing information discovery and analysis.
 - 🌱 I’m diving deeper into **Agentic AI** and its applications in building intelligent systems.
 - 👯 I’m looking to collaborate on innovative **Data Science, AI, and Machine Learning projects**.
 - 💬 Ask me about **Data Science & Analysis, Machine Learning, AI, Natural Language Processing (NLP), RAG pipelines, and Recommendation Systems**.
