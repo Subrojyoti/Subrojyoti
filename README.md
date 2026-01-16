@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Subrojyoti Paul 👋</h1>
-<h3 align="center">A passionate Data Scientist driving insights from data.</h3>
+<h3 align="center">Backend Engineer at Netenrich, Inc.</h3>
 
 <p align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=subrojyoti&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> -->
